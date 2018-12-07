@@ -18,12 +18,30 @@ Things to consider:
 - Are the test descriptions clear?
 - Has a consistent TDD process been followed? How could you tell?
 
-###Domain Modelling
-I have attempted to create a model which was used to plan how this app will work and how the code will be written. See below (*post digital version once complete*)
+### Domain Modelling
+I have attempted to create a model which was used to plan how this app will work and how the code will be written using the below user stories.
 
-###Test-driven development
+**As an office worker
+So I can record useful information
+I want to be able to create a text note
+
+As an office worker
+So I can carry all my useful information
+I want to keep all my notes in a notebook.
+
+As an office worker
+So I can categorise a note
+I want to be able to add a tag (only one tag) to a note
+
+As an office worker
+So I can find notes on a certain topic
+I want to be able to search for all the notes with a specific tag.**
+
+See below for domain model(*post digital version once complete*)
+
+### Test-driven development
 A test was written for every expected action before the code was written.
 
-###ODD Refactoring
+### ODD Refactoring
 
-###Giving and receiving feedback
+### Giving and receiving feedback
